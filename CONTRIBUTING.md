@@ -8,7 +8,6 @@
 <body>
     <h1>✨ Contributing to Jetpack Compose Guide ✨</h1>
     <p>Thank you for your interest in contributing to this project! Your contributions are greatly appreciated, and this guide will help you get started.</p>
-
     <h2>📚 Table of Contents</h2>
     <ul>
         <li><a href="#getting-started">Getting Started</a></li>
@@ -22,7 +21,6 @@
         <li><a href="#workflow">Workflow</a></li>
         <li><a href="#license">License</a></li>
     </ul>
-
     <h2 id="getting-started">🚀 Getting Started</h2>
     <p>To contribute, please ensure you have the following installed:</p>
     <ul>
@@ -31,7 +29,6 @@
         <li>Git</li>
     </ul>
     <p>Familiarize yourself with Jetpack Compose by reviewing <a href="https://developer.android.com/jetpack/compose/documentation">official documentation</a>.</p>
-
     <h2 id="how-to-contribute">🤝 How to Contribute</h2>
     <p>We welcome contributions in the following ways:</p>
     <ul>
@@ -39,7 +36,6 @@
         <li id="suggesting-enhancements"><strong>Suggesting Enhancements:</strong> Have an idea? Open a feature request with clear use cases.</li>
         <li id="adding-examples"><strong>Adding Examples:</strong> Add new examples to the <code>examples/</code> directory, and include a <code>README.md</code> explaining the example.</li>
     </ul>
-
     <h2 id="code-style-guidelines">🎨 Code Style Guidelines</h2>
     <p>Follow these guidelines to ensure consistent and clean code:</p>
     <ul>
@@ -47,7 +43,6 @@
         <li>Keep UI logic in Composables and business logic in ViewModels.</li>
         <li>Document your code with meaningful comments.</li>
     </ul>
-
     <h2 id="workflow">🔄 Workflow</h2>
     <p>Follow this workflow for contributing:</p>
     <ol>
@@ -66,10 +61,8 @@
         <li>A clear description of the changes.</li>
         <li>Related screenshots or code snippets (if applicable).</li>
     </ul>
-
     <h2 id="license">📄 License</h2>
     <p>By contributing, you agree that your contributions will be licensed under the same <a href="LICENSE">license</a> as this repository.</p>
-
     <hr>
     <p>Thank you for helping improve this project! Your contributions make a difference. 💖</p>
 </body>
