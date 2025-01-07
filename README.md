@@ -48,7 +48,6 @@
     <strong>dev (Demo Branch):</strong>
     <ul>
       <li>Experimental workflows and CI/CD pipelines:</li>
-      <li><code>.github/workflows/ci.yml</code> - Continuous Integration configuration (optional).</li>
     </ul>
   </li>
 </ul>
