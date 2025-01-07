@@ -9,7 +9,7 @@
   <li>
     <strong>main (Default Branch):</strong>
     <ul>
-      <li><code>README.md</code> - Main repository documentation with core app examples and visuals.</li>
+      <li><code>README.md</code> - Main repository documentation with Completed app examples with Visuals.</li>
       <li><code>LICENSE</code> - License for the repository.</li>
       <li><code>CONTRIBUTING.md</code> - Guidelines for contributing.</li>
       <li>
