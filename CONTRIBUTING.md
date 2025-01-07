@@ -10,12 +10,7 @@
     <h2>📚 Table of Contents</h2>
     <ul>
         <li><a href="#getting-started">Getting Started</a></li>
-        <li><a href="#how-to-contribute">When to Contribute</a></li>
-        <ul>
-            <li><a href="#reporting-issues">Reporting Issues</a></li>
-            <li><a href="#suggesting-enhancements">Suggesting Enhancements</a></li>
-            <li><a href="#adding-examples">Adding Examples</a></li>
-        </ul>
+        <li><a href="#when-to-contribute">When to Contribute</a></li>
         <li><a href="#workflow">Workflow</a></li>
         <li><a href="#license">License</a></li>
     </ul>
