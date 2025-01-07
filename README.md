@@ -19,13 +19,6 @@
           <li><code>AdvancedApp/</code> - Advanced example showcasing navigation, theming, and state management.</li>
         </ul>
       </li>
-      <li>
-        <code>screenshots/</code> - Visual assets for showcasing apps:
-        <ul>
-          <li><code>basic_app_home.png</code> - Home screen of Basic App.</li>
-          <li><code>advanced_app_profile.png</code> - Profile screen of Advanced App.</li>
-        </ul>
-      </li>
     </ul>
   </li>
 
@@ -67,7 +60,7 @@
 <ul>
   <li><strong>main:</strong> The default branch with core examples and essential documentation.</li>
   <li><strong>docs:</strong> In-depth guides and tutorials on Jetpack Compose.</li>
-  <li><strong>additional-apps:</strong> Additional examples showcasing unique app structures.</li>
+  <li><strong>App Snippets:</strong>This contains Partially made apps like You can combine those Code snippets to make any apps.</li>
   <li><strong>dev:</strong> Experimental features and workflows for testing.</li>
 </ul>
 
@@ -90,16 +83,6 @@
 <h2>🛠️ Contribution</h2>
 
 <p>We welcome contributions! Please check out the <a href="CONTRIBUTING.md">CONTRIBUTING.md</a> file for guidelines.</p>
-
----
-
-<h2>📸 Screenshots</h2>
-
-<p><strong>Basic App</strong></p>
-<img src="screenshots/basic_app_home.png" alt="Basic App Home" width="300" />
-
-<p><strong>Advanced App</strong></p>
-<img src="screenshots/advanced_app_profile.png" alt="Advanced App Profile" width="300" />
 
 ---
 
