@@ -82,7 +82,7 @@
 <h2>🛠️ Contribution</h2>
 
 <p>We welcome contributions! Please check out the <a href="CONTRIBUTING.md">CONTRIBUTING.md</a> file for guidelines.</p>
-<p>Feel free to DM us on Insta or email us at ap8548328@gmail.com</p>
+<p>Feel free to DM us on Insta or email us at <a href="ap8548328@gmail.com"</p>
 
 ---
 
