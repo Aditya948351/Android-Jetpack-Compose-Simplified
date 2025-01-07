@@ -27,7 +27,7 @@
         <li>Git</li>
     </ul>
     <p>Familiarize yourself with Jetpack Compose by reviewing <a href="https://developer.android.com/jetpack/compose/documentation">official documentation</a>.</p>
-    <h2 id="how-to-contribute">🤝 How to Contribute</h2>
+    <h2 id="how-to-contribute">🤝 When to Contribute</h2>
     <p>We welcome contributions in the following ways:</p>
     <ul>
         <li id="reporting-issues"><strong>Reporting Issues:</strong> Found a bug? Submit an issue with detailed steps to reproduce.</li>
