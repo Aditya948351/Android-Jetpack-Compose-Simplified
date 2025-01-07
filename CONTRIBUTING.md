@@ -50,6 +50,6 @@
     <h2 id="license">📄 License</h2>
     <p>By contributing, you agree that your contributions will be licensed under the same <a href="LICENSE">license</a> as this repository.</p>
     <hr>
-    <p>Thank you for helping improve this project! Your contributions make a difference. 💖</p>
+    <p>Thank you for helping improve this project! Your contributions will make a glorious change. 💖</p>
 </body>
 </html>
