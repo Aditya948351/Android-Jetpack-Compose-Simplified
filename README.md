@@ -23,7 +23,7 @@
   </li>
 
   <li>
-    <strong>docs (Information Branch):</strong>
+    <strong>Docs (Informative Branch):</strong>
     <ul>
       <li>Extensive documentation on Jetpack Compose concepts:</li>
       <li><code>introduction.md</code> - Introduction to Jetpack Compose.</li>
@@ -35,7 +35,16 @@
   </li>
 
   <li>
-    <strong>dev (Branch):</strong>
+    <strong>Code-Snippets (Helpful in Developing your Own Apps):</strong>
+    <ul>
+      <li>Extensive Code Snippets on Jetpack Compose concepts which will help you build your own app:</li>
+      <li>LoginActivity/ : this contains Login Screen with FireBase for any type of apps<li>
+    </ul>
+  </li>
+
+
+  <li>
+    <strong>dev (Demo Branch):</strong>
     <ul>
       <li>Experimental workflows and CI/CD pipelines:</li>
       <li><code>.github/workflows/ci.yml</code> - Continuous Integration configuration (optional).</li>
