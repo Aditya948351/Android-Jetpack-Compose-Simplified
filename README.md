@@ -15,8 +15,8 @@
       <li>
         <code>apps/</code> - Core app examples:
         <ul>
-          <code>BasicApp/</code> - Beginner-friendly app example.
-          <code>AdvancedApp/</code> - Advanced example showcasing navigation, theming, and state management.
+          <li><code>BasicApp/</code> - Beginner-friendly app example.</li>
+          <li><code>AdvancedApp/</code> - Advanced example showcasing navigation, theming, and state management.</li>
         </ul>
       </li>
     </ul>
