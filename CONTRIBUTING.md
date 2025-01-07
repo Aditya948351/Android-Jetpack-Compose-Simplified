@@ -16,7 +16,6 @@
             <li><a href="#suggesting-enhancements">Suggesting Enhancements</a></li>
             <li><a href="#adding-examples">Adding Examples</a></li>
         </ul>
-        <li><a href="#code-style-guidelines">Code Style Guidelines</a></li>
         <li><a href="#workflow">Workflow</a></li>
         <li><a href="#license">License</a></li>
     </ul>
