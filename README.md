@@ -39,6 +39,7 @@
     <ul>
       <li>Extensive Code Snippets on Jetpack Compose concepts which will help you build your own app:</li>
       <li>LoginActivity/ : this contains Login Screen with FireBase for any type of apps<li>
+      <li>Navigation/    : this includes Bottom App Bar,Side Navigation Bar and Floating Action Button(FAB) in a single App code<li>
     </ul>
   </li>
 
