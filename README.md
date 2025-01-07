@@ -1,32 +1,29 @@
-
-📂Repository Structure
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-JetpackComposeGuide/
+JetpackComposeGuide/<br>
 ├── README.md <br>
-├── LICENSE
-├── examples/
-│   ├── BasicApp/
-│   │   ├── app/
-│   │   ├── screenshots/
-│   │   └── README.md
-│   ├── AdvancedApp/
-│   │   ├── app/
-│   │   ├── screenshots/
-│   │   └── README.md
-├── docs/
-│   ├── introduction.md
-│   ├── basics.md
-│   ├── state-management.md
-│   ├── navigation.md
-│   └── theming.md
-├── CONTRIBUTING.md
-├── .github/
-│   ├── ISSUE_TEMPLATE/
-│   │   ├── bug_report.md
-│   │   ├── feature_request.md
-│   ├── workflows/
-│   │   └── ci.yml
-└── screenshots/
-    ├── home_screen.png
-    ├── settings_screen.png
-    └── example_app.gif
+├── LICENSE<br>
+├── examples/<br>
+│   ├── BasicApp/<br>
+│   │   ├── app/<br>
+│   │   ├── screenshots/<br>
+│   │   └── README.md<br>
+│   ├── AdvancedApp/<br>
+│   │   ├── app/<br>
+│   │   ├── screenshots/<br>
+│   │   └── README.md<br>
+├── docs/<br>
+│   ├── introduction.md<br>
+│   ├── basics.md<br>
+│   ├── state-management.md<br>
+│   ├── navigation.md<br>
+│   └── theming.md<br>
+├── CONTRIBUTING.md<br>
+├── .github/<br>
+│   ├── ISSUE_TEMPLATE/<br>
+│   │   ├── bug_report.md<br>
+│   │   ├── feature_request.md<br>
+│   ├── workflows/<br>
+│   │   └── ci.yml<br>
+└── screenshots/<br>
+    ├── home_screen.png<br>
+    ├── settings_screen.png<br>
+    └── example_app.gif<br>
