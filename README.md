@@ -60,8 +60,8 @@
 <ul>
   <li><strong>main:</strong> The default branch with core examples and essential documentation.</li>
   <li><strong>docs:</strong> In-depth guides and tutorials on Jetpack Compose.</li>
-  <li><strong>App Snippets:</strong>This contains Partially made apps like You can combine those Code snippets to make any apps.</li>
-  <li><strong>dev:</strong> Experimental features and workflows for testing.</li>
+  <li><strong>App-Snippets:</strong>This contains Partially made apps like You can combine those Code snippets to make any apps.</li>
+  <li><strong>Demo:</strong> Experimental features and workflows for testing.</li>
 </ul>
 
 ---
