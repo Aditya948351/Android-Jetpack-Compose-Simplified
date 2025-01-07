@@ -35,13 +35,6 @@
         <li id="suggesting-enhancements"><strong>Suggesting Enhancements:</strong> Have an idea? Open a feature request with clear use cases.</li>
         <li id="adding-examples"><strong>Adding Examples:</strong> Add new examples to the <code>examples/</code> directory, and include a <code>README.md</code> explaining the example.</li>
     </ul>
-    <h2 id="code-style-guidelines">🎨 Code Style Guidelines</h2>
-    <p>Follow these guidelines to ensure consistent and clean code:</p>
-    <ul>
-        <li>Use <a href="https://developer.android.com/kotlin/style-guide">Kotlin Coding Conventions</a>.</li>
-        <li>Keep UI logic in Composables and business logic in ViewModels.</li>
-        <li>Document your code with meaningful comments.</li>
-    </ul>
     <h2 id="workflow">🔄 Workflow</h2>
     <p>Follow this workflow for contributing:</p>
     <ol>
