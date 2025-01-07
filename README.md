@@ -23,7 +23,7 @@
   </li>
 
   <li>
-    <strong>docs (Branch):</strong>
+    <strong>docs (Information Branch):</strong>
     <ul>
       <li>Extensive documentation on Jetpack Compose concepts:</li>
       <li><code>introduction.md</code> - Introduction to Jetpack Compose.</li>
@@ -31,16 +31,6 @@
       <li><code>state-management.md</code> - Guide to state management.</li>
       <li><code>navigation.md</code> - Navigation in Jetpack Compose.</li>
       <li><code>theming.md</code> - Theming and styling your app.</li>
-    </ul>
-  </li>
-
-  <li>
-    <strong>additional-apps (Branch):</strong>
-    <ul>
-      <li>Additional app examples for deeper exploration:</li>
-      <li><code>AdditionalApp1/</code> - Example 1.</li>
-      <li><code>AdditionalApp2/</code> - Example 2.</li>
-      <li><code>AdditionalApp3/</code> - Example 3.</li>
     </ul>
   </li>
 
@@ -83,6 +73,7 @@
 <h2>🛠️ Contribution</h2>
 
 <p>We welcome contributions! Please check out the <a href="CONTRIBUTING.md">CONTRIBUTING.md</a> file for guidelines.</p>
+<p>Feel free to DM us on Insta or email us at ap8548328@gmail.com</p>
 
 ---
 
