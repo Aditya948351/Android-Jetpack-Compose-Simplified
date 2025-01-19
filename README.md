@@ -10,7 +10,7 @@
   <li>
     <strong>Videos:</strong>
     <ul>
-      <li>Just App Videos that I made for Guidance( Codes and Other Info will be in Other Repositories</li>
+      <li>Just App Videos that I made for Guidance (Codes and Other Info will be in Other Repositories) </li>
     </ul>
   </li>
   
