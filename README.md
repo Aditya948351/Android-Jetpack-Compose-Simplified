@@ -6,6 +6,14 @@
 <h2>📂 Repository Structure</h2>
 
 <ul>
+
+  <li>
+    <strong>Videos:</strong>
+    <ul>
+      <li>Just App Videos that I made for Guidance( Codes and Other Info will be in Other Repositories</li>
+    </ul>
+  </li>
+  
   <li>
     <strong>main (Default Branch):</strong>
     <ul>
@@ -48,6 +56,13 @@
     <strong>dev (Demo Branch):</strong>
     <ul>
       <li>Experimental workflows and CI/CD pipelines:</li>
+    </ul>
+  </li>
+
+  <li>
+    <strong>Videos:</strong>
+    <ul>
+      <li>Just App Videos that I made:</li>
     </ul>
   </li>
 </ul>
