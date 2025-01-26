@@ -76,6 +76,12 @@
   <li><strong>docs:</strong> In-depth guides and tutorials on Jetpack Compose.</li>
   <li><strong>App-Snippets:</strong>This contains Partially made apps like You can combine those Code snippets to make any apps.</li>
   <li><strong>Demo:</strong> Experimental features and workflows for testing.</li>
+  <li>
+    <strong>Videos:</strong>
+    <ul>
+      <li>Just App Videos that I made:</li>
+    </ul>
+  </li>
 </ul>
 
 ---
