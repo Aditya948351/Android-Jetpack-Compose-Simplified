@@ -1,4 +1,4 @@
-📘 [View Contribution Guide (HTML)](./contribute.html)
+📘 [View Contribution Guide (HTML)](./contributing.html)
 
 
 
