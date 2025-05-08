@@ -1,64 +1,94 @@
-📘 [View Contribution Guide (HTML)](./contributing.html)
+  Contributing to Jetpack Compose Simplified body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; margin: 2rem; background-color: #f9f9f9; color: #333; } h1, h2 { color: #2c3e50; } a { color: #0077cc; } code { background-color: #eee; padding: 2px 6px; border-radius: 4px; } pre { background-color: #f4f4f4; padding: 1em; overflow-x: auto; border-left: 4px solid #0077cc; } ul, ol { padding-left: 1.2em; } hr { margin-top: 2rem; }
 
+✨ Contributing to Jetpack Compose Simplified ✨
+==============================================
 
+We're thrilled to have you here! This guide walks you through the contribution process for this open-source Jetpack Compose learning platform.
 
+📚 Table of Contents
+--------------------
 
+*   [Getting Started](#getting-started)
+*   [Ways to Contribute](#ways-to-contribute)
+*   [Workflow](#workflow)
+*   [Commit Style](#commit-style)
+*   [Pull Request Checklist](#pull-request)
+*   [Code of Conduct](#code-of-conduct)
+*   [License](#license)
 
+🚀 Getting Started
+------------------
 
+Ensure you have the following tools installed:
 
+*   ✅ Android Studio (latest)
+*   ✅ Java JDK 11+
+*   ✅ Git CLI or GitHub Desktop
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <h1>✨ Contributing to Jetpack Compose Guide ✨</h1>
-    <p>Thank you for your interest in contributing to this project! Your contributions are greatly appreciated, and this guide will help you get started.</p>
-    <h2>📚 Table of Contents</h2>
-    <ul>
-        <li><a href="#getting-started">Getting Started</a></li>
-        <li><a href="#how-to-contribute">When to Contribute</a></li>
-        <li><a href="#workflow">Workflow</a></li>
-        <li><a href="#license">License</a></li>
-    </ul>
-    <h2 id="getting-started">🚀 Getting Started</h2>
-    <p>To contribute, please ensure you have the following installed:</p>
-    <ul>
-        <li>Android Studio (latest version)</li>
-        <li>Java Development Kit (JDK 11 or higher)</li>
-        <li>Git</li>
-    </ul>
-    <p>Familiarize yourself with Jetpack Compose by reviewing <a href="https://developer.android.com/jetpack/compose/documentation">official documentation</a>.</p>
-    <h2 id="how-to-contribute">🤝 When to Contribute</h2>
-    <p>We welcome contributions in the following ways:</p>
-    <ul>
-        <li id="reporting-issues"><strong>Reporting Issues:</strong> Found a bug? Submit an issue with detailed steps to reproduce.</li>
-        <li id="suggesting-enhancements"><strong>Suggesting Enhancements:</strong> Have an idea? Open a feature request with clear use cases.</li>
-        <li id="adding-examples"><strong>Adding Examples:</strong> Add new examples to the <code>examples/</code> directory, and include a <code>README.md</code> explaining the example.</li>
-    </ul>
-    <h2 id="workflow">🔄 Workflow</h2>
-    <p>Follow this workflow for contributing:</p>
-    <ol>
-        <li>Fork the repository and clone it locally.</li>
-        <li>Create a new branch for your changes:</li>
-        <pre><code>git checkout -b feature/your-feature-name</code></pre>
-        <li>Make your changes and test them thoroughly in Android Studio.</li>
-        <li>Commit your changes with a descriptive message:</li>
-        <pre><code>git commit -m "Add feature: your-feature-name"</code></pre>
-        <li>Push your branch to your forked repository:</li>
-        <pre><code>git push origin feature/your-feature-name</code></pre>
-        <li>Submit a pull request (PR) to the <code>main</code> branch of this repository.</li>
-    </ol>
-    <p>Ensure your PR includes:</p>
-    <ul>
-        <li>A clear description of the changes.</li>
-        <li>Related screenshots or code snippets (if applicable).</li>
-    </ul>
-    <h2 id="license">📄 License</h2>
-    <p>By contributing, you agree that your contributions will be licensed under the same <a href="LICENSE">license</a> as this repository.</p>
-    <hr>
-    <p>Thank you for helping improve this project! Your contributions will make a glorious change. 💖</p>
-</body>
-</html>
+Review the official [Jetpack Compose documentation](https://developer.android.com/jetpack/compose/documentation) before contributing.
+
+🤝 Ways to Contribute
+---------------------
+
+*   **📌 Report Issues:** Found a bug or UI glitch? Open an issue with screenshots or logs.
+*   **🌟 Suggest Features:** Got a UI/UX idea? Submit a feature request with use cases.
+*   **🧩 Add Examples:** Submit new components or patterns inside the `examples/` folder with a `README.md`.
+
+🔄 Contribution Workflow
+------------------------
+
+1.  Fork the repository on GitHub and clone it locally:
+
+    git clone https://github.com/YOUR-USERNAME/Android-Jetpack-Compose-Simplified.git
+
+3.  Navigate into the project directory:
+
+    cd Android-Jetpack-Compose-Simplified
+
+5.  Create a new branch for your feature or fix:
+
+    git checkout -b feature/your-feature-name
+
+7.  Make and test your changes in Android Studio.
+8.  Commit your changes:
+
+    git commit -m "✨ Added: Description of your feature"
+
+10.  Push your branch:
+
+    git push origin feature/your-feature-name
+
+12.  Open a Pull Request to the `main` branch of this repo.
+
+📝 Commit Style
+---------------
+
+Use meaningful, emoji-prefixed commit messages:
+
+*   `✨ Feature: Added custom Scaffold demo`
+*   `🐛 Fix: Button misalignment in LazyColumn`
+*   `📚 Docs: Updated README with usage instructions`
+
+✅ Pull Request Checklist
+------------------------
+
+*   ✔️ Clear explanation of the change
+*   ✔️ Relevant screenshots/code if applicable
+*   ✔️ Linked to an existing issue (e.g., `Closes #7`)
+*   ✔️ Passed all checks and builds
+
+📜 Code of Conduct
+------------------
+
+We expect contributors to be respectful, inclusive, and open to feedback. Discriminatory, abusive, or harmful behavior will not be tolerated.
+
+Full policy: [Contributor Covenant 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)
+
+📄 License
+----------
+
+All contributions will be licensed under the same [MIT License](LICENSE) as this repository. By submitting a pull request, you agree to these terms.
+
+* * *
+
+**🚀 Let's build something great together! Contribute, grow, and help others learn Jetpack Compose with your code.**
