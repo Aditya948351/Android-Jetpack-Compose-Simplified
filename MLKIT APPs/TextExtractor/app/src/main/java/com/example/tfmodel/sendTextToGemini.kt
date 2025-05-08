@@ -10,7 +10,7 @@ import okio.IOException
 
 @Composable
 fun sendTextToGemini(ocrText: String, onResult: (String) -> Unit) {
-    val GEMINI_API_KEY = "AIzaSyCmrM28rx2cwmdigJ0Bqb0fqUXTt5Vx7NE"
+    val GEMINI_API_KEY = "Add your API key here"
     val apiUrl = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=GEMINI_API_KEY"
     val prompt = """
         You are a professional text formatter.
