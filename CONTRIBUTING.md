@@ -1,3 +1,12 @@
+📘 [View Contribution Guide (HTML)](./contribute.html)
+
+
+
+
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
